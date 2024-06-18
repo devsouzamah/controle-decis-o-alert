@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding: 2rem;
+}
+
+h1 {
+    color: red;
+    font-size: 1.5rem;
+   
+}
+
+label {
+   color: rgb(16, 139, 47); 
+   font-size: 1.5rem;
+   
+}
+
+
+input {
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(82, 226, 226);
+}
